@@ -2422,22 +2422,22 @@
 			}
 
 			.icon.major.accent2 {
-				background: #e89980;
+				background: #82E0AA;
 				color: #ffffff;
 			}
 
 			.icon.major.accent3 {
-				background: #7fcdb8;
+				background: #F5CBA7;
 				color: #ffffff;
 			}
 
 			.icon.major.accent4 {
-				background: #90b0ba;
+				background: #C39BD3;
 				color: #ffffff;
 			}
 
 			.icon.major.accent5 {
-				background: #e5cb95;
+				background: #AED6F1;
 				color: #ffffff;
 			}
 
@@ -3303,7 +3303,7 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #8dbf91;
 		color: #f9e6df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
